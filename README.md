@@ -13,7 +13,7 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/selim-antoine-lali" target="_blank">
+  <a href="www.linkedin.com/in/selim-antoine-lali/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
