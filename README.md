@@ -30,8 +30,6 @@
 | **Conditional cross-modal reasoning in VLMs** | A benchmark and an agent for conditional reasoning over images and text | Under review |
 | **Harvard Eye Foundation Model** | Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record | Lab project |
 
-The code for these projects is in private repositories.
-
 **Neural Systems and Machine Learning Lab, UC Berkeley** · Machine learning research intern, May–September 2024
 
 - A recurrent neural network with a biologically inspired feedback control mechanism to simulate neural dynamics, combining neuronal gain modulation and Hebbian learning.
@@ -77,14 +75,6 @@ The code for these projects is in private repositories.
 | [**Molecular&nbsp;Graph Captioning**](https://github.com/SelimLali/Molecular-Graph-Captioning-Data-Challenge) | Graph-to-text models that describe a molecule in natural language from its graph: GNN–text retrieval, then generation with a GNN encoder and BART/GPT-2 decoders. Kaggle data challenge at École Polytechnique, test score 0.619 (top 10%) | PyTorch, PyTorch Geometric, Transformers |
 | [**LLM&nbsp;Reasoning with&nbsp;Sampling**](https://github.com/SelimLali/Large-Language-Models-reasoning-with-sampling) | Reproduction on MATH500 of training-free power sampling (Karan and Du, 2025), which improves a base model's reasoning at inference time by changing how responses are sampled | PyTorch, Transformers |
 | [**Curriculum&nbsp;Learning for&nbsp;Machine&nbsp;Translation**](https://github.com/SelimLali/Curriculum-learning-capstone-project) | English-to-Japanese translation: difficulty scored with fast features and an LLM judge, easy-to-hard and hard-to-easy curricula, and LoRA fine-tuning of NLLB under each ordering | PyTorch, Transformers, PEFT |
-
-## 🎓 Education
-
-| Years | School | Program |
-| --- | --- | --- |
-| 2026–&#8288;2027 | **ENSAE&nbsp;Paris** (IP&nbsp;Paris) | Master 2 – Statistics, Machine Learning and Quantitative Finance |
-| 2025–&#8288;2026 | **École&nbsp;Polytechnique** (IP&nbsp;Paris) | Master 2 – Data Science, Applied Mathematics and Statistics |
-| 2022–&#8288;2026 | **ENSTA&nbsp;Paris** (IP&nbsp;Paris) | Diplôme d'ingénieur – Master of Science in Engineering |
 
 ## 🔗 Connect with Me
 
