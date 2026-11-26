@@ -10,12 +10,16 @@
   <a href="https://selimlali.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Personal_Website-selimlali.github.io-0A66C2?style=for-the-badge" alt="Personal Website" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SelimLali&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile views" />
+</p>
+
 ## 💡 About Me
 
 - 🎓 Master's student at **École Polytechnique** and **ENSAE Paris**, and Master of Science in Engineering at **ENSTA Paris** – Institut Polytechnique de Paris.
 - 🔬 Visiting research intern at the **Harvard AI and Robotics Lab**, supervised by Dr. Mengyu Wang and Yan Luo, PhD.
 - 🤖 I work on **multi-agent reasoning with large language models** and on **vision-language models for medicine**.
-- 📄 Co-first author of **RIAG**, *Revision-Aware Independent Agent Graphs for Dynamic Reasoning* ([arXiv:2610.01249](https://arxiv.org/abs/2610.01249)).
+- 📄 Co-first author of **RIAG**, *Revision-Aware Independent Agent Graphs for Dynamic Reasoning* ([arXiv:2610.01249](https://arxiv.org/abs/2610.01249)), and co-author of **VISTA**, *A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users* ([arXiv:2610.22822](https://arxiv.org/abs/2610.22822)).
 
 ## 🧠 Research Interests
 
@@ -30,6 +34,7 @@
 | Project | Description | Status |
 | --- | --- | --- |
 | **RIAG**: Revision-Aware Independent Agent Graphs for Dynamic Reasoning | Dynamic task routing and a revision-aware agent graph for multi-agent LLM reasoning, which outperforms prior multi-agent graph methods with far fewer model calls. Co-first author | Preprint: [arXiv:2610.01249](https://arxiv.org/abs/2610.01249) |
+| **VISTA**: A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users | Benchmark of about 1,000 egocentric recordings from Project Aria glasses, testing whether vision-language models give useful goal-directed guidance to blind and low-vision users; 14 models evaluated zero-shot, plus a multimodal baseline that uses six sensor streams. Co-author | Preprint: [arXiv:2610.22822](https://arxiv.org/abs/2610.22822) |
 | **Harvard Eye Foundation Model** | Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record | Lab project |
 
 **Neural Systems and Machine Learning Lab, UC Berkeley** · Machine learning research intern, May–September 2024
