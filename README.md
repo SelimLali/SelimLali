@@ -1,102 +1,34 @@
-<!-- PROFILE README — Selim-Antoine Lali -->
+I am a master's student at ENSAE Paris (Institut Polytechnique de Paris) and a visiting research intern at the Harvard AI and Robotics Lab. I work on multi-agent reasoning with large language models and on vision-language models for medicine.
 
-<h1 align="center">Hi, I'm Selim-Antoine Lali</h1>
-<h3 align="center">An Applied Maths and Machine/Deep Learning student from Paris</h3>
+**Research interests:** Optimization · Machine Learning · Agent Graphs · Multi-Agent Reasoning · Computer Vision · Medical Imaging
 
-<br/>
+## Research
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+**[Harvard AI and Robotics Lab](https://github.com/Harvard-AI-and-Robotics-Lab)** · Visiting research intern since April 2026, supervised by Dr. Mengyu Wang and Yan Luo, PhD
 
-## Connect with me:
+- **Revision-Aware Independent Agent Graphs for Dynamic Reasoning (RIAG).** Dynamic task routing and a revision-aware agent graph for multi-agent LLM reasoning, which outperforms prior multi-agent graph methods with far fewer model calls. Co-first author. Preprint: [arXiv:2610.01249](https://arxiv.org/abs/2610.01249)
+- **Survival analysis with LLMs and VLMs.** Large language model methods for survival and time-to-event prediction on medical data. Manuscript in preparation.
+- **Conditional cross-modal reasoning in vision-language models.** A benchmark and an agent for conditional reasoning over images and text. Manuscript under review.
+- **Harvard Eye Foundation Model.** Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record.
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/selim-antoine-lali/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+The code for these projects is in private repositories.
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/YOUR-KAGGLE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="42" height="42" alt="Kaggle"/>
-  </a>
-  &nbsp;&nbsp;
+**Neural Systems and Machine Learning Lab, UC Berkeley** · Machine learning research intern, May–September 2024, supervised by Kristofer Bouchard, PhD
 
-  <!-- Email -->
-  <a href="mailto:YOUR.EMAIL@domain.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="42" height="42" alt="Email"/>
-  </a>
-</p>
+- A recurrent neural network with a biologically inspired feedback control mechanism to simulate neural dynamics, combining neuronal gain modulation and Hebbian learning.
 
-<br/>
+## Projects with public code
 
-## Languages and Tools:
+- **[Molecular Graph Captioning](https://github.com/SelimLali/Molecular-Graph-Captioning-Data-Challenge).** Graph-to-text models that describe a molecule in natural language from its graph: GNN–text retrieval, then generation with a GNN encoder and BART/GPT-2 decoders. Kaggle data challenge at École Polytechnique; test score 0.619 (top 10%).
+- **[LLM Reasoning with Sampling](https://github.com/SelimLali/Large-Language-Models-reasoning-with-sampling).** Reproduction on MATH500 of training-free power sampling (Karan and Du, 2025), which improves a base model's reasoning at inference time by changing how responses are sampled.
+- **[Curriculum Learning for Machine Translation](https://github.com/SelimLali/Curriculum-learning-capstone-project).** English-to-Japanese translation: difficulty scored with fast features and an LLM judge, easy-to-hard and hard-to-easy curricula, and LoRA fine-tuning of NLLB under each ordering.
 
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/>
-  </a>
-  &nbsp;
+## Education
 
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"/>
-  </a>
-  &nbsp;
+- **École Polytechnique – Institut Polytechnique de Paris** · Master 2 – Data Science, Applied Mathematics and Statistics · 2025–2026
+- **ENSAE Paris – Institut Polytechnique de Paris** · Master 2 – Statistics, Machine Learning and Quantitative Finance · 2026–2027
+- **ENSTA Paris – Institut Polytechnique de Paris** · Diplôme d'ingénieur – Master of Science in Engineering · 2022–2026
 
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/>
-  </a>
-  &nbsp;
+## Links
 
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="scikit-learn"/>
-  </a>
-  &nbsp;
-
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" height="44" alt="pandas"/>
-  </a>
-  &nbsp;
-
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"/>
-  </a>
-  &nbsp;
-
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="44" height="44" alt="Jupyter"/>
-  </a>
-  &nbsp;
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Optional short blurb -->
-<!--
-### A bit about me
-- Interests: deep learning, generative models, graphs, RL, quant finance
-- Currently: M2 / engineering projects & research
--->
-
-  </td>
-
-  <td align="center" valign="top" width="45%">
-    <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="420" alt="Coding gif"/>
-  </td>
-  </tr>
-</table>
-
+[LinkedIn](https://www.linkedin.com/in/selim-antoine-lali)
