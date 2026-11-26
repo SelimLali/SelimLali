@@ -17,7 +17,7 @@
 ## 💡 About Me
 
 - 🎓 Master's student at **École Polytechnique** and **ENSAE Paris**, and Master of Science in Engineering at **ENSTA Paris** – Institut Polytechnique de Paris.
-- 🔬 Visiting research intern at the **Harvard AI and Robotics Lab**, supervised by Dr. Mengyu Wang and Yan Luo, PhD.
+- 🔬 Visiting research intern at the **Harvard AI and Robotics Lab**, supervised by Dr. Mengyu Wang and Dr. Yan Luo.
 - 🤖 I work on **multi-agent reasoning with large language models** and on **vision-language models for medicine**.
 - 📄 Co-first author of **RIAG**, *Revision-Aware Independent Agent Graphs for Dynamic Reasoning* ([arXiv:2610.01249](https://arxiv.org/abs/2610.01249)), and co-author of **VISTA**, *A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users* ([arXiv:2610.22822](https://arxiv.org/abs/2610.22822)).
 
@@ -35,11 +35,9 @@
 | --- | --- | --- |
 | **RIAG**: Revision-Aware Independent Agent Graphs for Dynamic Reasoning | Dynamic task routing and a revision-aware agent graph for multi-agent LLM reasoning, which outperforms prior multi-agent graph methods with far fewer model calls. Co-first author | Preprint: [arXiv:2610.01249](https://arxiv.org/abs/2610.01249) |
 | **VISTA**: A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users | Benchmark of about 1,000 egocentric recordings from Project Aria glasses, testing whether vision-language models give useful goal-directed guidance to blind and low-vision users; 14 models evaluated zero-shot, plus a multimodal baseline that uses six sensor streams. Co-author | Preprint: [arXiv:2610.22822](https://arxiv.org/abs/2610.22822) |
-| **Harvard Eye Foundation Model** | Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record | Lab project |
+| **Fundus Image Captioning with Vision-Language Models** | Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record. Dataset of 1.38 million captions for 1.64 million retinal images, rewritten from clinical notes by LLM; evaluation on 211,151 test images with captioning metrics, clinical-concept F1 and an LLM judge | Lab project |
 
-**Neural Systems and Machine Learning Lab, UC Berkeley** · Machine learning research intern, May–September 2024
-
-- A recurrent neural network with a biologically inspired feedback control mechanism to simulate neural dynamics, combining neuronal gain modulation and Hebbian learning.
+**[Neural Systems and Machine Learning Lab](https://bouchardlab.lbl.gov), UC Berkeley** · Machine learning research intern, May–September 2024, supervised by [Dr. Kristofer E. Bouchard](https://biosciences.lbl.gov/profiles/kristofer-e-bouchard/)
 
 ## 🛠 Languages & Tools
 
@@ -79,9 +77,9 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Molecular&nbsp;Graph Captioning**](https://github.com/SelimLali/Molecular-Graph-Captioning-Data-Challenge) | Graph-to-text models that describe a molecule in natural language from its graph: GNN–text retrieval, then generation with a GNN encoder and BART/GPT-2 decoders. Kaggle data challenge at École Polytechnique, test score 0.619 (top 10%) | PyTorch, PyTorch Geometric, Transformers |
-| [**LLM&nbsp;Reasoning with&nbsp;Sampling**](https://github.com/SelimLali/Large-Language-Models-reasoning-with-sampling) | Reproduction on MATH500 of training-free power sampling (Karan and Du, 2025), which improves a base model's reasoning at inference time by changing how responses are sampled | PyTorch, Transformers |
-| [**Curriculum&nbsp;Learning for&nbsp;Machine&nbsp;Translation**](https://github.com/SelimLali/Curriculum-learning-capstone-project) | English-to-Japanese translation: difficulty scored with fast features and an LLM judge, easy-to-hard and hard-to-easy curricula, and LoRA fine-tuning of NLLB under each ordering | PyTorch, Transformers, PEFT |
+| [**LLM&nbsp;Reasoning with&nbsp;Sampling**](https://github.com/SelimLali/Large-Language-Models-reasoning-with-sampling) | Reproduction of training-free power sampling (Karan and Du, 2025): a blockwise Metropolis–Hastings sampler that steers a base LLM toward higher-likelihood reasoning paths at inference time, with no fine-tuning. On 100 MATH500 problems with Qwen2.5-Math-1.5B-Instruct, accuracy rose from 62.0% with standard sampling to 70.0%, ahead of low-temperature decoding (67.3%) | PyTorch, Transformers |
+| [**Molecular&nbsp;Graph Captioning — From Retrieval to Controlled Generation**](https://github.com/SelimLali/Molecular-Graph-Captioning-Data-Challenge)<br><sub>DaSciM Team, LIX, École Polytechnique</sub> | Graph-to-text models that describe a molecule in natural language from its graph: GNN–text retrieval, then generation with a GNN encoder and BART/GPT-2 decoders. Kaggle data challenge at École Polytechnique, test score 0.619 (top 10%) | PyTorch, PyTorch Geometric, Transformers |
+| [**Curriculum&nbsp;Learning for&nbsp;Machine&nbsp;Translation**](https://github.com/SelimLali/Curriculum-learning-capstone-project)<br><sub>Capstone project with Dragon LLM, Institut Polytechnique de Paris</sub> | English-to-Japanese translation: difficulty scored with fast text features and an LLM judge, easy-to-hard, hard-to-easy and random curricula, and LoRA fine-tuning of NLLB-200 and Qwen3 base models under the same step budget | PyTorch, Transformers, PEFT |
 
 ## 🔗 Connect with Me
 
