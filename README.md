@@ -6,6 +6,10 @@
   <a href="https://arxiv.org/abs/2610.01249"><img src="https://img.shields.io/badge/arXiv-Preprint-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Preprint on arXiv" /></a>
 </p>
 
+<p align="center">
+  <a href="https://selimlali.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Personal_Website-selimlali.github.io-0A66C2?style=for-the-badge" alt="Personal Website" /></a>
+</p>
+
 ## 💡 About Me
 
 - 🎓 Master's student at **École Polytechnique** and **ENSAE Paris**, and Master of Science in Engineering at **ENSTA Paris** – Institut Polytechnique de Paris.
