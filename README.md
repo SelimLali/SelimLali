@@ -81,7 +81,3 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/selim-antoine-lali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI0ZGRkZGRiI%2BPGNpcmNsZSBjeD0iNC43IiBjeT0iNS4yIiByPSIyLjMiLz48cmVjdCB4PSIyLjciIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyLjMiLz48cGF0aCBkPSJNOS4zIDloMy44djEuN2MuNy0xLjIgMi4xLTIgNC4xLTIgMy42IDAgNC42IDIuMyA0LjYgNS41djcuMWgtNHYtNi4zYzAtMS42LS4zLTIuOS0yLjEtMi45LTEuOCAwLTIuNCAxLjMtMi40IDMuMXY2LjFoLTR6Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
 </p>
-
----
-
-> 🤿 _Outside research_: running, swimming and scuba diving.
