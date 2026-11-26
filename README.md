@@ -30,8 +30,6 @@
 | Project | Description | Status |
 | --- | --- | --- |
 | **RIAG**: Revision-Aware Independent Agent Graphs for Dynamic Reasoning | Dynamic task routing and a revision-aware agent graph for multi-agent LLM reasoning, which outperforms prior multi-agent graph methods with far fewer model calls. Co-first author | Preprint: [arXiv:2610.01249](https://arxiv.org/abs/2610.01249) |
-| **Survival analysis with LLMs and VLMs** | Large language model methods for survival and time-to-event prediction on medical data | In preparation |
-| **Conditional cross-modal reasoning in VLMs** | A benchmark and an agent for conditional reasoning over images and text | Under review |
 | **Harvard Eye Foundation Model** | Open-weight vision-language models (Qwen3-VL, MedGemma, LLaVA-Med) fine-tuned with LoRA to write, from a fundus photograph, the clinical description an ophthalmologist would record | Lab project |
 
 **Neural Systems and Machine Learning Lab, UC Berkeley** · Machine learning research intern, May–September 2024
