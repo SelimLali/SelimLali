@@ -18,7 +18,7 @@
 
 - 🎓 Master's student at **École Polytechnique** and **ENSAE Paris**, and Master of Science in Engineering at **ENSTA Paris** – Institut Polytechnique de Paris.
 - 🔬 Visiting research intern at the **Harvard AI and Robotics Lab**, supervised by Dr. Mengyu Wang and Dr. Yan Luo.
-- 🤖 I work on **multi-agent reasoning with large language models** and on **vision-language models for medicine**.
+- 🤖 I work on **multi-agent reasoning with large language models** and on **vision-language models for healthcare and medical imaging**.
 - 📄 Co-first author of **RIAG**, *Revision-Aware Independent Agent Graphs for Dynamic Reasoning* ([arXiv:2610.01249](https://arxiv.org/abs/2610.01249)), and co-author of **VISTA**, *A Multimodal Egocentric Benchmark for Goal-Oriented Perception and Assistance to Blind and Low-Vision Users* ([arXiv:2610.22822](https://arxiv.org/abs/2610.22822)).
 
 ## 🧠 Research Interests
